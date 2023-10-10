@@ -1,0 +1,90 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css");
+
+body{
+    background-image: url(gradient-background_68708-924.avif);
+    background-position: absolute;
+    background-size: 100%;
+}
+.contain{
+    width: 300px;
+    height: 450px;
+    border: 1px solid black;
+    margin: 120px auto;
+    padding: 10px;
+    border-radius: 13px;
+    background-color: white;
+
+}
+
+.top{
+    margin-top: 2px;
+    height: 40px;
+}
+.photo{
+    width: 100%;
+    height: 310px;
+    margin-top: -10px;
+}
+.symbols{
+    width: 100%;
+    height: 35px;
+    display: flex;
+    font-size: 25px;
+    justify-content: space-between;
+}
+.img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    object-fit: fill;
+}
+.full{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.tex{
+    font-size: small;
+    margin-left: 8px;
+}
+.tex>h4{
+    font-size: large;
+}
+.tex>p{
+    margin-top: -14px;
+}
+.abt{
+    display: flex;
+}
+.threedot{
+    margin-top: -20px;
+}
+.pic{
+    width: 100%;
+    height: 100%;
+}
+.comments{
+    width: 100%;
+    height: 42px;
+    font-size: small;
+    margin-top: -3px;
+}
+.group>i{
+    margin-left: 20px;
+}
+.group{
+    margin-left: -16px;
+    align-items: center;
+}
+.red{
+    color: red;
+}
+.bolder{
+    font-weight: bold;
+}
+.para{
+    margin-top: -19px;
+}
+.light{
+    text-decoration: lightgrey;
+}
